@@ -5,7 +5,9 @@ CerraNet is a deep learning convolutional neural network, specially designed to 
 In this repository you have access to the algorithms:
 - Data Augmentation, static mode;
 - CerraNet_training 
-- CerraNet_testing.
+- CerraNet_testing
+
+
 And also, you can visualize:
 - Datasets: https://drive.google.com/drive/folders/1WuJ64hGBjSGXonfO9Et0IGyyyNXI9AgG?usp=sharing
 - Trained Weights: https://drive.google.com/drive/folders/1EBysgmqgMbqdbiQlV9de5Prnawiq0iSl?usp=sharing
