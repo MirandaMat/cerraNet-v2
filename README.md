@@ -11,6 +11,6 @@ In this repository you have access to the algorithms:
 And also, you can visualize:
 - Datasets: https://drive.google.com/drive/folders/1WuJ64hGBjSGXonfO9Et0IGyyyNXI9AgG?usp=sharing
 - Trained Weights: https://drive.google.com/drive/folders/1EBysgmqgMbqdbiQlV9de5Prnawiq0iSl?usp=sharing
-- Keynote and paper: https://drive.google.com/drive/folders/1qi071q_GefEDXpZFdKZBtkxiGkI12ymB?usp=sharing 
-
+- Keynote:https://drive.google.com/file/d/1ny_tT8Jb2KQ_UB7l4wmBjwU3zO8vmvMW/view?usp=sharing
+- Paper: https://drive.google.com/file/d/1JnN52C8yZKwN-5XA6qSiCsCygh1-0vvZ/view?usp=sharing
 
